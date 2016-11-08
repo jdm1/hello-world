@@ -2,7 +2,7 @@
 
 Hi there!
 
-This are my first steps to generate a program repository for research software.
+These are my first steps to generate a program repository for research software.
 
 
 
