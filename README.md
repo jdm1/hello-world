@@ -1,2 +1,8 @@
 # hello-world
-Just a trial
+
+Hi there!
+
+This are my first steps to generate a program repository for research software.
+
+
+
